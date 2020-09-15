@@ -1,0 +1,1 @@
+powershell.exe -ExecutionPolicy Bypass -File C:\raidcheck\raidcheck.ps1
